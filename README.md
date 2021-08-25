@@ -10,6 +10,9 @@
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+
 ## Tech I use
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30" align="left">
@@ -18,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" align="left">
 
+<br/>
+<br/>
 
 <details>
 <summary>:bulb: Most Use Languages</summary>
