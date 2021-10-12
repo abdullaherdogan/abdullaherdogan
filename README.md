@@ -3,6 +3,8 @@
 ### Hello, I'm Abdullah
 ## Junior Frontend Developer
 
+-I'm currently learning Reactjs and .Net
+
 ## Reach out me
 
 [linkedin]:https://www.linkedin.com/in/abdullah-erdogan
